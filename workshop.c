@@ -3,8 +3,8 @@
 
 int main()
 {
-  printf("Git project0");
-  printf("Git project1");
+  printf("Git project");
+  printf("Git workshop");
   printf("Git project2");
   printf("Git project3");
   printf("Git project4");
